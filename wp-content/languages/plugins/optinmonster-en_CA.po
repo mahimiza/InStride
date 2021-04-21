@@ -1,0 +1,993 @@
+# Translation of Plugins - Marketing Toolkit by OptinMonster – Popups, Email Optin Forms &amp; Newsletter Subscribers - Development (trunk) in English (Canada)
+# This file is distributed under the same license as the Plugins - Marketing Toolkit by OptinMonster – Popups, Email Optin Forms &amp; Newsletter Subscribers - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-06 00:13:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - Marketing Toolkit by OptinMonster – Popups, Email Optin Forms &amp; Newsletter Subscribers - Development (trunk)\n"
+
+#: views/plugin-banner.php:24
+msgid "Create New Campaign"
+msgstr "Create New Campaign"
+
+#: views/plugin-banner.php:20
+msgid "Send Us Feedback"
+msgstr "Send Us Feedback"
+
+#: views/plugin-banner.php:17
+msgid "Need Help?"
+msgstr "Need Help?"
+
+#: OMAPI/Menu.php:1447
+msgid "Consumer secret"
+msgstr "Consumer secret"
+
+#: OMAPI/Menu.php:1439
+msgid "Consumer key"
+msgstr "Consumer key"
+
+#: OMAPI/Menu.php:1379
+msgid "Download the report and attach to your <a href=\"%s\">support ticket</a> to help speed up the process."
+msgstr "Download the report and attach to your <a href=\"%s\">support ticket</a> to help speed up the process."
+
+#: OMAPI/Menu.php:1367
+msgid "Create a Support Ticket"
+msgstr "Create a Support Ticket"
+
+#: OMAPI/Menu.php:1366
+msgid "Changelog"
+msgstr "Changelog"
+
+#: OMAPI/Menu.php:1365
+msgid "Documentation"
+msgstr "Documentation"
+
+#: OMAPI/Menu.php:999
+msgid "Front Page and Search Pages"
+msgstr "Front Page and Search Pages"
+
+#: OMAPI/Menu.php:940
+msgid "Go to Widgets"
+msgstr "Go to Widgets"
+
+#: OMAPI/Menu.php:940
+msgid "You can set this campaign to show in your sidebars using the OptinMonster widget within your sidebars."
+msgstr "You can set this campaign to show in your sidebars using the OptinMonster widget within your sidebars."
+
+#: OMAPI/Menu.php:940
+msgid "Use Widgets to set Sidebar output"
+msgstr "Use Widgets to set Sidebar output"
+
+#: OMAPI/Menu.php:928
+msgid "Show on WooCommerce Product Tags:"
+msgstr "Show on WooCommerce Product Tags:"
+
+#: OMAPI/Menu.php:906
+msgid "Show on WooCommerce Product Categories:"
+msgstr "Show on WooCommerce Product Categories:"
+
+#: OMAPI/Menu.php:886
+msgid "The campaign will show when the endpoint page for add payment method is displayed."
+msgstr "The campaign will show when the endpoint page for add payment method is displayed."
+
+#: OMAPI/Menu.php:886
+msgid "Show on WooCommerce Add Payment Method endpoint"
+msgstr "Show on WooCommerce Add Payment Method endpoint"
+
+#: OMAPI/Menu.php:882
+msgid "The campaign will show when the endpoint page for customer logout is displayed."
+msgstr "The campaign will show when the endpoint page for customer logout is displayed."
+
+#: OMAPI/Menu.php:882
+msgid "Show on WooCommerce Customer Logout endpoint"
+msgstr "Show on WooCommerce Customer Logout endpoint"
+
+#: OMAPI/Menu.php:878
+msgid "The campaign will show when the endpoint page for lost password is displayed."
+msgstr "The campaign will show when the endpoint page for lost password is displayed."
+
+#: OMAPI/Menu.php:878
+msgid "Show on WooCommerce Lost Password endpoint"
+msgstr "Show on WooCommerce Lost Password endpoint"
+
+#: OMAPI/Menu.php:874
+msgid "The campaign will show when the endpoint page for edit address is displayed."
+msgstr "The campaign will show when the endpoint page for edit address is displayed."
+
+#: OMAPI/Menu.php:874
+msgid "Show on WooCommerce Edit Address endpoint"
+msgstr "Show on WooCommerce Edit Address endpoint"
+
+#: OMAPI/Menu.php:870
+msgid "The campaign will show when the endpoint page for edit account is displayed."
+msgstr "The campaign will show when the endpoint page for edit account is displayed."
+
+#: OMAPI/Menu.php:870
+msgid "Show on WooCommerce Edit Account endpoint"
+msgstr "Show on WooCommerce Edit Account endpoint"
+
+#: OMAPI/Menu.php:866
+msgid "The campaign will show when the endpoint page for view order is displayed."
+msgstr "The campaign will show when the endpoint page for view order is displayed."
+
+#: OMAPI/Menu.php:866
+msgid "Show on WooCommerce View Order endpoint"
+msgstr "Show on WooCommerce View Order endpoint"
+
+#: OMAPI/Menu.php:862
+msgid "The campaign will show when the endpoint page for order received is displayed."
+msgstr "The campaign will show when the endpoint page for order received is displayed."
+
+#: OMAPI/Menu.php:862
+msgid "Show on WooCommerce Order Received endpoint"
+msgstr "Show on WooCommerce Order Received endpoint"
+
+#: OMAPI/Menu.php:858
+msgid "The campaign will show when the endpoint page for order pay is displayed."
+msgstr "The campaign will show when the endpoint page for order pay is displayed."
+
+#: OMAPI/Menu.php:858
+msgid "Show on WooCommerce Order Pay endpoint"
+msgstr "Show on WooCommerce Order Pay endpoint"
+
+#: OMAPI/Menu.php:855
+msgid "The campaign will show when on any WooCommerce Endpoint."
+msgstr "The campaign will show when on any WooCommerce Endpoint."
+
+#: OMAPI/Menu.php:855
+msgid "Show on all WooCommerce Endpoints"
+msgstr "Show on all WooCommerce Endpoints"
+
+#: OMAPI/Menu.php:851
+msgid "The campaign will show on the WooCommerce customer account pages."
+msgstr "The campaign will show on the WooCommerce customer account pages."
+
+#: OMAPI/Menu.php:851
+msgid "Show on WooCommerce Customer Account"
+msgstr "Show on WooCommerce Customer Account"
+
+#: OMAPI/Menu.php:847
+msgid "The campaign will show on the checkout page."
+msgstr "The campaign will show on the checkout page."
+
+#: OMAPI/Menu.php:847
+msgid "Show on WooCommerce Checkout"
+msgstr "Show on WooCommerce Checkout"
+
+#: OMAPI/Menu.php:843
+msgid "The campaign will show on the cart page."
+msgstr "The campaign will show on the cart page."
+
+#: OMAPI/Menu.php:843
+msgid "Show on WooCommerce Cart"
+msgstr "Show on WooCommerce Cart"
+
+#: OMAPI/Menu.php:839
+msgid "The campaign will show on any single product."
+msgstr "The campaign will show on any single product."
+
+#: OMAPI/Menu.php:839
+msgid "Show on WooCommerce products"
+msgstr "Show on WooCommerce products"
+
+#: OMAPI/Menu.php:835
+msgid "The campaign will show on the product archive page (shop)."
+msgstr "The campaign will show on the product archive page (shop)."
+
+#: OMAPI/Menu.php:835
+msgid "Show on WooCommerce shop"
+msgstr "Show on WooCommerce shop"
+
+#: OMAPI/Menu.php:831
+msgid "The campaign will show on any page where WooCommerce templates are used."
+msgstr "The campaign will show on any page where WooCommerce templates are used."
+
+#: OMAPI/Menu.php:831
+msgid "Show on all WooCommerce pages"
+msgstr "Show on all WooCommerce pages"
+
+#: OMAPI/Menu.php:790
+msgid "Load campaign on "
+msgstr "Load campaign on "
+
+#: OMAPI/Menu.php:727
+msgid "Load campaign specifically on:"
+msgstr "Load campaign specifically on:"
+
+#: OMAPI/Menu.php:722
+msgid "Never loads the campaign on the selected posts and/or pages. Does not disable automatic Global output."
+msgstr "Never loads the campaign on the selected posts and/or pages. Does not disable automatic Global output."
+
+#: OMAPI/Menu.php:722
+msgid "Never load campaign on:"
+msgstr "Never load campaign on:"
+
+#: OMAPI/Menu.php:709
+msgid "Use the shortcode to manually add this campaign to inline to a post or page. <a href=\"%s\" title=\"Click here to learn more about how this work\" target=\"_blank\" rel=\"noopener\">Click here to learn more about how this works.</a>"
+msgstr "Use the shortcode to manually add this campaign to inline to a post or page. <a href=\"%s\" title=\"Click here to learn more about how this work\" target=\"_blank\" rel=\"noopener\">Click here to learn more about how this works.</a>"
+
+#: OMAPI/Menu.php:708
+msgid "Shortcode for this campaign"
+msgstr "Shortcode for this campaign"
+
+#: OMAPI/Menu.php:700
+msgid "If no advanced settings are selected below, the campaign will display after every post. You can turn this off and add it manually to your posts by <a href=\"%s\" target=\"_blank\" rel=\"noopener\">clicking here and viewing the tutorial.</a>"
+msgstr "If no advanced settings are selected below, the campaign will display after every post. You can turn this off and add it manually to your posts by <a href=\"%s\" target=\"_blank\" rel=\"noopener\">clicking here and viewing the tutorial.</a>"
+
+#: OMAPI/Menu.php:700
+msgid "Display the campaign automatically after blog posts"
+msgstr "Display the campaign automatically after blog posts"
+
+#: OMAPI/Menu.php:696
+msgid "Enable campaign on site?"
+msgstr "Enable campaign on site?"
+
+#: OMAPI/Menu.php:683
+msgid "More specific settings available for WooCommerce integration."
+msgstr "More specific settings available for WooCommerce integration."
+
+#: OMAPI/Menu.php:683
+msgid "WooCommerce Settings"
+msgstr "WooCommerce Settings"
+
+#: OMAPI/Menu.php:677
+msgid "More specific settings available for campaign visibility."
+msgstr "More specific settings available for campaign visibility."
+
+#: OMAPI/Menu.php:677
+msgid "Advanced Settings"
+msgstr "Advanced Settings"
+
+#: OMAPI/Menu.php:629
+msgid "Allow logged-out/non-admin debugging of plugin rules with the <code>omwpdebug</code> query variable?"
+msgstr "Allow logged-out/non-admin debugging of plugin rules with the <code>omwpdebug</code> query variable?"
+
+#: OMAPI/Menu.php:629
+msgid "Debugging Rules"
+msgstr "Debugging Rules"
+
+#: OMAPI/Menu.php:624
+msgid "A single API Key found in your OptinMonster Account API area."
+msgstr "A single API Key found in your OptinMonster Account API area."
+
+#: OMAPI/Menu.php:623
+msgid "Authorize OptinMonster"
+msgstr "Authorize OptinMonster"
+
+#: OMAPI/Menu.php:619
+msgid "Enter your Legacy API Key here..."
+msgstr "Enter your Legacy API Key here…"
+
+#: OMAPI/Menu.php:619
+msgid "The Legacy API Key found in your OptinMonster Account API area."
+msgstr "The Legacy API Key found in your OptinMonster Account API area."
+
+#: OMAPI/Menu.php:619
+msgid "Legacy API Key"
+msgstr "Legacy API Key"
+
+#: OMAPI/Menu.php:615
+msgid "Enter your Legacy API Username here..."
+msgstr "Enter your Legacy API Username here…"
+
+#: OMAPI/Menu.php:615
+msgid "The Legacy API Username found in your OptinMonster Account API area."
+msgstr "The Legacy API Username found in your OptinMonster Account API area."
+
+#: OMAPI/Menu.php:615
+msgid "Legacy API Username"
+msgstr "Legacy API Username"
+
+#: OMAPI/Menu.php:131
+msgid "Support"
+msgstr "Support"
+
+#: OMAPI/Menu.php:130
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: OMAPI/Menu.php:129
+msgid "Authorization"
+msgstr "Authorization"
+
+#: OMAPI/Widget.php:220
+msgid "Apply Advanced Output Settings?"
+msgstr "Apply Advanced Output Settings?"
+
+#: OMAPI/Blocks.php:126 OMAPI/Widget.php:195
+msgid "Campaign"
+msgstr "Campaign"
+
+#: OMAPI/WooCommerce.php:229
+msgid "Consumer key is invalid."
+msgstr "Consumer key is invalid."
+
+#: OMAPI/WooCommerce.php:193
+msgid "Consumer secret is invalid."
+msgstr "Consumer secret is invalid."
+
+#: OMAPI/WooCommerce.php:179
+msgid "Consumer secret is missing."
+msgstr "Consumer secret is missing."
+
+#: OMAPI/WooCommerce.php:173
+msgid "Consumer key is missing."
+msgstr "Consumer key is missing."
+
+#: OMAPI/WooCommerce.php:93
+msgid "The consumer key or consumer secret appears to be invalid. Try again."
+msgstr "The consumer key or consumer secret appears to be invalid. Try again."
+
+#: views/review.php:20
+msgid "Ok, you deserve it"
+msgstr "Ok, you deserve it"
+
+#: OMAPI/Content.php:565
+msgid "Read the full post about the changes."
+msgstr "Read the full post about the changes."
+
+#: OMAPI/Content.php:564
+msgid "Your campaigns created within WordPress using the original OptinMonster plugin can be recreated manually in your OptinMonster account."
+msgstr "Your campaigns created within WordPress using the original OptinMonster plugin can be recreated manually in your OptinMonster account."
+
+#: OMAPI/Content.php:534
+msgid "Disable this campaign"
+msgstr "Disable this campaign"
+
+#: OMAPI/Content.php:194 OMAPI/Content.php:382
+msgid "The unique slug of this campaign. Used for shortcodes and embed scripts."
+msgstr "The unique slug of this campaign. Used for shortcodes and embed scripts."
+
+#: OMAPI/Content.php:368
+msgid "This campaign is not embedded by the plugin anywhere on this site."
+msgstr "This campaign is not embedded by the plugin anywhere on this site."
+
+#: OMAPI/Menu.php:1451
+msgid "Connect WooCommerce"
+msgstr "Connect WooCommerce"
+
+#: OMAPI/Content.php:263
+msgid "Disconnect WooCommerce"
+msgstr "Disconnect WooCommerce"
+
+#: OMAPI/Content.php:244
+msgid "Refresh Campaigns"
+msgstr "Refresh Campaigns"
+
+#: OMAPI/Content.php:192
+msgid "Back to campaign overview"
+msgstr "Back to campaign overview"
+
+#: views/constantcontact.php:242
+msgid "With Constant Contact + OptinMonster, growing your list is easy."
+msgstr "With Constant Contact + OptinMonster, growing your list is easy."
+
+#: views/constantcontact.php:241
+msgid "It doesn&#39;t matter what kind of business you run, what kind of website you have, or what industry you are in - you need to start building your email list today."
+msgstr "It doesn&#39;t matter what kind of business you run, what kind of website you have, or what industry you are in - you need to start building your email list today."
+
+#: views/constantcontact.php:238
+msgid "4. Sync your campaign to your WordPress site, then hit Go Live."
+msgstr "4. Sync your campaign to your WordPress site, then hit Go Live."
+
+#: views/constantcontact.php:234
+msgid "3. Connect your Constant Contact email list."
+msgstr "3. Connect your Constant Contact email list."
+
+#: views/constantcontact.php:230
+msgid "2. Drag and drop elements to completely customize the look and feel of your campaign."
+msgstr "2. Drag and drop elements to completely customize the look and feel of your campaign."
+
+#: views/constantcontact.php:226
+msgid "1. Select a design from our beautiful, high-converting template library."
+msgstr "1. Select a design from our beautiful, high-converting template library."
+
+#: views/constantcontact.php:222
+msgid "Here&#39;s how it works."
+msgstr "Here&#39;s how it works."
+
+#: views/constantcontact.php:221
+msgid "When creating OptinMonster, our goal was to make a conversion optimization tool that was both EASY and POWERFUL."
+msgstr "When creating OptinMonster, our goal was to make a conversion optimization tool that was both EASY and POWERFUL."
+
+#: views/constantcontact.php:220
+msgid "OptinMonster Makes List Building Easy"
+msgstr "OptinMonster Makes List Building Easy"
+
+#: views/constantcontact.php:216 views/constantcontact.php:245
+msgid "Try Constant Contact Today"
+msgstr "Try Constant Contact Today"
+
+#: views/constantcontact.php:212
+msgid "Get expert marketing and support"
+msgstr "Get expert marketing and support"
+
+#: views/constantcontact.php:211
+msgid "Create and send professional email newsletters"
+msgstr "Create and send professional email newsletters"
+
+#: views/constantcontact.php:210
+msgid "Seamlessly add new contacts to your email list"
+msgstr "Seamlessly add new contacts to your email list"
+
+#: views/constantcontact.php:208
+msgid "But when you combine OptinMonster with Constant Contact, you can nurture your contacts and engage with them even after they leave your website. When you use Constant Contact + OptinMonster together, you can:"
+msgstr "But when you combine OptinMonster with Constant Contact, you can nurture your contacts and engage with them even after they leave your website. When you use Constant Contact + OptinMonster together, you can:"
+
+#: views/constantcontact.php:207
+msgid "OptinMonster plugin makes it fast and easy to capture all kinds of visitor information right from your WordPress site - even if you don&#39;t have a Constant Contact account."
+msgstr "OptinMonster plugin makes it fast and easy to capture all kinds of visitor information right from your WordPress site - even if you don&#39;t have a Constant Contact account."
+
+#: views/constantcontact.php:204
+msgid "Get Started with Constant Contact for Free"
+msgstr "Get Started with Constant Contact for Free"
+
+#: views/constantcontact.php:201
+msgid "With a powerful email marketing service like Constant Contact, you can instantly send out mass notifications and beautifully designed newsletters to engage your subscribers."
+msgstr "With a powerful email marketing service like Constant Contact, you can instantly send out mass notifications and beautifully designed newsletters to engage your subscribers."
+
+#: views/constantcontact.php:199
+msgid "The Best Email Marketing Service"
+msgstr "The Best Email Marketing Service"
+
+#: views/constantcontact.php:198
+msgid "High-Converting Form Builder"
+msgstr "High-Converting Form Builder"
+
+#: views/constantcontact.php:196
+msgid "A Website or Blog"
+msgstr "A Website or Blog"
+
+#: views/constantcontact.php:194
+msgid "Here are the 3 things you need to build an email list:"
+msgstr "Here are the 3 things you need to build an email list:"
+
+#: views/constantcontact.php:193
+msgid "You&#39;ve Already Started - Here&#39;s the Next Step (It&#39;s Easy)"
+msgstr "You&#39;ve Already Started - Here&#39;s the Next Step (It&#39;s Easy)"
+
+#. translators: %s - WPBeginners.com Guide to Email Lists URL.
+#: views/constantcontact.php:179
+msgid "For more details, see this guide on <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">why building your email list is so important</a>."
+msgstr "For more details, see this guide on <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">why building your email list is so important</a>."
+
+#: views/constantcontact.php:173
+msgid "That&#39;s why it&#39;s crucial to start collecting email addresses and building your list as soon as possible."
+msgstr "That&#39;s why it&#39;s crucial to start collecting email addresses and building your list as soon as possible."
+
+#: views/constantcontact.php:171
+msgid "<strong>Email converts</strong> - People who buy products marketed through email spend 138% more than those who don&#39;t receive email offers."
+msgstr "<strong>Email converts</strong> - People who buy products marketed through email spend 138% more than those who don&#39;t receive email offers."
+
+#: views/constantcontact.php:170
+msgid "<strong>You own your email list</strong> - Unlike with social media, your list is your property and no one can revoke your access to it."
+msgstr "<strong>You own your email list</strong> - Unlike with social media, your list is your property and no one can revoke your access to it."
+
+#: views/constantcontact.php:169
+msgid "<strong>Email is still #1</strong> - At least 91% of consumers check their email on a daily basis. You get direct access to your subscribers, without having to play by social media&#39;s rules and algorithms."
+msgstr "<strong>Email is still #1</strong> - At least 91% of consumers check their email on a daily basis. You get direct access to your subscribers, without having to play by social media&#39;s rules and algorithms."
+
+#: views/constantcontact.php:166
+msgid "OptinMonster with Constant Contact - Try us free"
+msgstr "OptinMonster with Constant Contact - Try us free"
+
+#: views/constantcontact.php:164
+msgid "Here are 3 big reasons why every smart business in the world has an email list:"
+msgstr "Here are 3 big reasons why every smart business in the world has an email list:"
+
+#: views/constantcontact.php:163
+msgid "Email is hands-down the most effective way to nurture leads and turn them into customers, with a return on investment (ROI) of <strong>$44 back for every $1 spent</strong> according to the Direct Marketing Association."
+msgstr "Email is hands-down the most effective way to nurture leads and turn them into customers, with a return on investment (ROI) of <strong>$44 back for every $1 spent</strong> according to the Direct Marketing Association."
+
+#: views/constantcontact.php:162
+msgid "Wondering if email marketing is really worth your time?"
+msgstr "Wondering if email marketing is really worth your time?"
+
+#: views/constantcontact.php:161
+msgid "Grow Your Website with OptinMonster + Email Marketing"
+msgstr "Grow Your Website with OptinMonster + Email Marketing"
+
+#: OMAPI/ConstantContact.php:261
+msgid "Please rate <strong>OptinMonster</strong> <a href=\"%1$s\" target=\"_blank\" rel=\"noopener\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a> to help us spread the word. Thank you from the OptinMonster team!"
+msgstr "Please rate <strong>OptinMonster</strong> <a href=\"%1$s\" target=\"_blank\" rel=\"noopener\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a> to help us spread the word. Thank you from the OptinMonster team!"
+
+#. translators: %s - OptinMonster Constant Contact internal URL.
+#: OMAPI/ConstantContact.php:189
+msgid "Learn More about the <a href=\"%s\">power of email marketing</a>"
+msgstr "Learn More about the <a href=\"%s\">power of email marketing</a>"
+
+#: OMAPI/ConstantContact.php:182
+msgid "Connect your existing account"
+msgstr "Connect your existing account"
+
+#: OMAPI/ConstantContact.php:178
+msgid "Try Constant Contact for Free"
+msgstr "Try Constant Contact for Free"
+
+#: OMAPI/ConstantContact.php:169
+msgid "Get the most out of the <strong>OptinMonster</strong> plugin &mdash; use it with an active Constant Contact account."
+msgstr "Get the most out of the <strong>OptinMonster</strong> plugin &mdash; use it with an active Constant Contact account."
+
+#: OMAPI/ConstantContact.php:110
+msgid "OptinMonster with Constant Contact"
+msgstr "OptinMonster with Constant Contact"
+
+#: OMAPI/Validate.php:199
+msgid "Get More Email Subscribers with OptinMonster"
+msgstr "Get More Email Subscribers with OptinMonster"
+
+#: OMAPI/Validate.php:186
+msgid "There was an error verifying your OptinMonster API credentials. They are either missing or they are no longer valid."
+msgstr "There was an error verifying your OptinMonster API credentials. They are either missing or they are no longer valid."
+
+#: OMAPI/Rules.php:770
+msgid "Invalid %1$s property: %2$s"
+msgstr "Invalid %1$s property: %2$s"
+
+#: OMAPI/Type.php:98
+msgid "No Campaigns found"
+msgstr "No Campaigns found"
+
+#: OMAPI/Type.php:97
+msgid "Search Campaigns"
+msgstr "Search Campaigns"
+
+#: OMAPI/Type.php:96
+msgid "View Campaign"
+msgstr "View Campaign"
+
+#: OMAPI/Type.php:95 OMAPI/Type.php:101 OMAPI/Menu.php:128 OMAPI/Menu.php:176
+#: OMAPI/Menu.php:182 OMAPI/Menu.php:309
+msgid "Campaigns"
+msgstr "Campaigns"
+
+#: OMAPI/Type.php:94
+msgid "New Campaign"
+msgstr "New Campaign"
+
+#: OMAPI/Type.php:93
+msgid "Edit Campaign"
+msgstr "Edit Campaign"
+
+#: OMAPI/Type.php:92
+msgid "Add New Campaign"
+msgstr "Add New Campaign"
+
+#: OMAPI/Pointer.php:105
+msgid "Click Here to Learn More"
+msgstr "Click Here to Learn More"
+
+#: OMAPI/Pointer.php:104
+msgid "100% Free!"
+msgstr "100% Free!"
+
+#: OMAPI/Pointer.php:104
+msgid "For a limited time, get 50% off any plan AND get instant access to OptinMonster University - our exclusive training portal with over $2,000 worth of courses, courses, content and videos"
+msgstr "For a limited time, get 50% off any plan AND get instant access to OptinMonster University - our exclusive training portal with over $2,000 worth of courses, courses, content and videos"
+
+#: OMAPI/Pointer.php:103
+msgid "Turn your website visitors into subscribers and customers with OptinMonster, the #1 conversion optimization toolkit in the world."
+msgstr "Turn your website visitors into subscribers and customers with OptinMonster, the #1 conversion optimization toolkit in the world."
+
+#: OMAPI/Pointer.php:102
+msgid "Grow Your Business with OptinMonster"
+msgstr "Grow Your Business with OptinMonster"
+
+#: OMAPI/Pointer.php:100
+msgid "Get More Leads, Subscribers and Sales Today!"
+msgstr "Get More Leads, Subscribers and Sales Today!"
+
+#: OMAPI/Save.php:801
+msgid "WooCommerce could not be disconnected from OptinMonster. The OptinMonster API returned with the following response: "
+msgstr "WooCommerce could not be disconnected from OptinMonster. The OptinMonster API returned with the following response: "
+
+#: OMAPI/Save.php:760
+msgid "WooCommerce could not be connected to OptinMonster. The OptinMonster API returned with the following response: "
+msgstr "WooCommerce could not be connected to OptinMonster. The OptinMonster API returned with the following response: "
+
+#: OMAPI/Save.php:339
+msgid "WooCommerce REST API keys could not be auto-generated on your behalf. Please try again."
+msgstr "WooCommerce REST API keys could not be auto-generated on your behalf. Please try again."
+
+#: OMAPI/Save.php:234
+msgid "You must provide a valid API Key to authenticate with OptinMonster."
+msgstr "You must provide a valid API Key to authenticate with OptinMonster."
+
+#: OMAPI/Welcome.php:283 OMAPI/Validate.php:200
+msgid "Connect OptinMonster"
+msgstr "Connect OptinMonster"
+
+#: OMAPI/Welcome.php:282
+msgid "OptinMonster helps you convert abandoning website visitors into subscribers and customers. <strong>Get more email subscribers now.</strong>"
+msgstr "OptinMonster helps you convert abandoning website visitors into subscribers and customers. <strong>Get more email subscribers now.</strong>"
+
+#: OMAPI/Welcome.php:280
+msgid "Archie"
+msgstr "Archie"
+
+#: OMAPI/Welcome.php:260 OMAPI/Welcome.php:281
+msgid "Please Connect OptinMonster"
+msgstr "Please Connect OptinMonster"
+
+#: views/welcome.php:110
+msgid "Join the thousands of users who use OptinMonster to convert abandoning website visitors into subscribers and customers."
+msgstr "Join the thousands of users who use OptinMonster to convert abandoning website visitors into subscribers and customers."
+
+#: views/welcome.php:104
+msgid "SEO Expert"
+msgstr "SEO Expert"
+
+#: views/welcome.php:103
+msgid "Matthew Woodward"
+msgstr "Matthew Woodward"
+
+#: views/welcome.php:102
+msgid "OptinMonster played a critical role in increasing my email optin conversion rate by 469%. In real numbers, <strong>that is the difference between $7,765 and $47,748 per month.</strong>"
+msgstr "OptinMonster played a critical role in increasing my email optin conversion rate by 469%. In real numbers, <strong>that is the difference between $7,765 and $47,748 per month.</strong>"
+
+#: views/welcome.php:94
+msgid "Founder QuickSprout"
+msgstr "Founder QuickSprout"
+
+#: views/welcome.php:93
+msgid "Neil Patel"
+msgstr "Neil Patel"
+
+#: views/welcome.php:84
+msgid "Founder Social Media Examiner"
+msgstr "Founder Social Media Examiner"
+
+#: views/welcome.php:83
+msgid "Michael Stelzner"
+msgstr "Michael Stelzner"
+
+#: views/welcome.php:73
+msgid "OptinMonster has been featured in Inc., Forbes, VB, Yahoo, Entrepreneur, Huff Post, and more"
+msgstr "OptinMonster has been featured in Inc., Forbes, VB, Yahoo, Entrepreneur, Huff Post, and more"
+
+#: views/welcome.php:72
+msgid "OptinMonster has been featured in:"
+msgstr "OptinMonster has been featured in:"
+
+#: views/welcome.php:65
+msgid "OptinMonster Segmenting with Page Level Targeting"
+msgstr "OptinMonster Segmenting with Page Level Targeting"
+
+#: views/welcome.php:63
+msgid "Our built-in analytics help you analyze clicks, views, and overall conversion rates for each page and optin form."
+msgstr "Our built-in analytics help you analyze clicks, views, and overall conversion rates for each page and optin form."
+
+#: views/welcome.php:62
+msgid "Get the stats that matter and take action to imrpove your lead-generation strategy."
+msgstr "Get the stats that matter and take action to imrpove your lead-generation strategy."
+
+#: views/welcome.php:61
+msgid "Measuring your results has never been easier"
+msgstr "Measuring your results has never been easier"
+
+#: views/welcome.php:55
+msgid "Try different content, headlines, layouts, and styles to see what converts best with our smart and easy to use A/B testing tool."
+msgstr "Try different content, headlines, layouts, and styles to see what converts best with our smart and easy to use A/B testing tool."
+
+#: views/welcome.php:54
+msgid "A/B testing helps you eliminate the guess work and make data-driven decisions on what works best."
+msgstr "A/B testing helps you eliminate the guess work and make data-driven decisions on what works best."
+
+#: views/welcome.php:53
+msgid "Easily A/B test your ideas and increase conversions"
+msgstr "Easily A/B test your ideas and increase conversions"
+
+#: views/welcome.php:51
+msgid "OptinMonster uses smart A/B testing"
+msgstr "OptinMonster uses smart A/B testing"
+
+#: views/welcome.php:47
+msgid "OptinMonster Exit Intent Technology"
+msgstr "OptinMonster Exit Intent Technology"
+
+#: views/welcome.php:45
+msgid "Our exit-intent&reg; technology detects user behavior and prompts them with a targeted campaign at the precise moment they are about to leave."
+msgstr "Our exit-intent&reg; technology detects user behaviour and prompts them with a targeted campaign at the precise moment they are about to leave."
+
+#: views/welcome.php:44
+msgid "Did you know that over 70% of visitors who abandon your website will never return?"
+msgstr "Did you know that over 70% of visitors who abandon your website will never return?"
+
+#: views/welcome.php:43
+msgid "Convert abandoning visitors into subscribers & customers"
+msgstr "Convert abandoning visitors into subscribers & customers"
+
+#: views/welcome.php:37
+msgid "You can create various types of optin forms such as lightbox popups, floating bars, slide-ins, and more."
+msgstr "You can create various types of optin forms such as lightbox popups, floating bars, slide-ins, and more."
+
+#: views/welcome.php:36
+msgid "Create visually stunning optin forms that are optimized for the highest conversion rates."
+msgstr "Create visually stunning optin forms that are optimized for the highest conversion rates."
+
+#: views/welcome.php:35
+msgid "Build high converting forms in minutes, not hours"
+msgstr "Build high converting forms in minutes, not hours"
+
+#: views/welcome.php:33
+msgid "OptinMonster Form Builder"
+msgstr "OptinMonster Form Builder"
+
+#: views/welcome.php:28
+msgid "Here's why smart business owners love OptinMonster, and you will too!"
+msgstr "Here's why smart business owners love OptinMonster, and you will too!"
+
+#: views/welcome.php:27
+msgid "Top 4 Reasons Why People Love OptinMonster"
+msgstr "Top 4 Reasons Why People Love OptinMonster"
+
+#: views/welcome.php:15
+msgid "OptinMonster helps you convert abandoning website visitors into email subscribers with smart web forms and behavior personalization."
+msgstr "OptinMonster helps you convert abandoning website visitors into email subscribers with smart web forms and behaviour personalization."
+
+#: views/welcome.php:14
+msgid "Get More Email Subscribers, FAST!"
+msgstr "Get More Email Subscribers, FAST!"
+
+#: views/welcome.php:10 views/welcome.php:114
+msgid "Connect Your Account"
+msgstr "Connect Your Account"
+
+#: OMAPI/Validate.php:199 views/welcome.php:6
+msgid "Please connect to or create an OptinMonster account to start using OptinMonster. This will enable you to start turning website visitors into subscribers & customers."
+msgstr "Please connect to or create an OptinMonster account to start using OptinMonster. This will enable you to start turning website visitors into subscribers & customers."
+
+#: OMAPI/Welcome.php:241
+msgid "Get OptinMonster Now"
+msgstr "Get OptinMonster Now"
+
+#: OMAPI/Welcome.php:241
+msgid "Get Started for Free"
+msgstr "Get Started for Free"
+
+#: OMAPI/Welcome.php:188
+msgid "Welcome"
+msgstr "Welcome"
+
+#: OMAPI/Welcome.php:187 views/welcome.php:3
+msgid "Welcome to OptinMonster"
+msgstr "Welcome to OptinMonster"
+
+#: OMAPI/Widget.php:211
+msgid "Not Enabled"
+msgstr "Not Enabled"
+
+#: OMAPI/Widget.php:190
+msgid "Title"
+msgstr "Title"
+
+#: OMAPI/Widget.php:64
+msgid "Place an OptinMonster campaign into a widgetized area."
+msgstr "Place an OptinMonster campaign into a widgetized area."
+
+#: OMAPI/Validate.php:194
+msgid "The subscription to this OptinMonster account has expired. Please renew your subscription to use the OptinMonster API."
+msgstr "The subscription to this OptinMonster account has expired. Please renew your subscription to use the OptinMonster API."
+
+#: OMAPI/Validate.php:191
+msgid "The subscription to this OptinMonster account has been disabled, likely due to a refund or other administrator action. Please contact OptinMonster support to resolve this issue."
+msgstr "The subscription to this OptinMonster account has been disabled, likely due to a refund or other administrator action. Please contact OptinMonster support to resolve this issue."
+
+#: OMAPI/Type.php:99
+msgid "No Campaigns found in trash"
+msgstr "No Campaigns found in trash"
+
+#: OMAPI/Type.php:91
+msgid "Add New"
+msgstr "Add New"
+
+#: OMAPI/Type.php:90
+msgctxt "post type singular name"
+msgid "Campaign"
+msgstr "Campaign"
+
+#: OMAPI/Type.php:89
+msgctxt "post type general name"
+msgid "Campaigns"
+msgstr "Campaigns"
+
+#: OMAPI/Save.php:835
+msgid "Your settings have been saved successfully."
+msgstr "Your settings have been saved successfully."
+
+#: OMAPI/Refresh.php:253
+msgid "Your campaigns have been refreshed successfully."
+msgstr "Your campaigns have been refreshed successfully."
+
+#: OMAPI/MailPoet.php:60
+msgid "Select your MailPoet list..."
+msgstr "Select your MailPoet list&hellip;"
+
+#: OMAPI/Menu.php:976
+msgid "Show campaign to only users (logged-in)"
+msgstr "Show campaign to only users (logged-in)"
+
+#: OMAPI/Menu.php:972
+msgid "Show campaign to only visitors (not logged-in)"
+msgstr "Show campaign to only visitors (not logged-in)"
+
+#: OMAPI/Menu.php:968
+msgid "Show campaign to all visitors and users"
+msgstr "Show campaign to all visitors and users"
+
+#: OMAPI/Menu.php:816
+msgid "All successful leads for the campaign will be added to this particular MailPoet list."
+msgstr "All successful leads for the campaign will be added to this particular MailPoet list."
+
+#: OMAPI/Menu.php:816
+msgid "Add lead to this MailPoet list:"
+msgstr "Add lead to this MailPoet list:"
+
+#: OMAPI/Menu.php:812
+msgid "If checked, successful campaign leads will be saved to MailPoet."
+msgstr "If checked, successful campaign leads will be saved to MailPoet."
+
+#: OMAPI/Menu.php:812
+msgid "Save lead to MailPoet?"
+msgstr "Save lead to MailPoet?"
+
+#: OMAPI/Menu.php:808
+msgid "Load campaign on post types and archives:"
+msgstr "Load campaign on post types and archives:"
+
+#: OMAPI/Menu.php:749
+msgid "Loads the campaign on the selected post tags."
+msgstr "Loads the campaign on the selected post tags."
+
+#: OMAPI/Menu.php:749
+msgid "Load campaign on post tags:"
+msgstr "Load campaign on post tags:"
+
+#: OMAPI/Menu.php:749
+msgid "Type to search and select post tag(s)..."
+msgstr "Type to search and select post tag(s)&hellip;"
+
+#: OMAPI/Menu.php:736
+msgid "Load campaign on post categories:"
+msgstr "Load campaign on post categories:"
+
+#: OMAPI/Menu.php:727
+msgid "Loads the campaign on the selected posts and/or pages."
+msgstr "Loads the campaign on the selected posts and/or pages."
+
+#: OMAPI/Menu.php:722 OMAPI/Menu.php:727
+msgid "Type to search and select post(s)..."
+msgstr "Type to search and select post(s)&hellip;"
+
+#: OMAPI/Menu.php:717
+msgid "Determines who should be able to view this campaign. Want to hide for newsletter subscribers? <a href=\"%s\" target=\"_blank\" rel=\"noopener\">Click here to learn how.</a>"
+msgstr "Determines who should be able to view this campaign. Want to hide for newsletter subscribers? <a href=\"%s\" target=\"_blank\" rel=\"noopener\">Click here to learn how.</a>"
+
+#: OMAPI/Menu.php:717
+msgid "Who should see this campaign?"
+msgstr "Who should see this campaign?"
+
+#: OMAPI/Menu.php:696
+msgid "The campaign will not be displayed on this site unless this setting is checked."
+msgstr "The campaign will not be displayed on this site unless this setting is checked."
+
+#: OMAPI/Menu.php:639
+msgid "If checked, local cookies will be cleared for all campaigns after campaign settings are adjusted and saved."
+msgstr "If checked, local cookies will be cleared for all campaigns after campaign settings are adjusted and saved."
+
+#: OMAPI/Menu.php:639
+msgid "Clear local cookies on campaign update?"
+msgstr "Clear local cookies on campaign update?"
+
+#: OMAPI/Menu.php:624
+msgid "Enter your API Key here..."
+msgstr "Enter your API Key here&hellip;"
+
+#: OMAPI/Menu.php:624
+msgid "API Key"
+msgstr "API Key"
+
+#: OMAPI/Menu.php:132
+msgid "Migration"
+msgstr "Migration"
+
+#: OMAPI/Menu.php:310
+msgid "Settings"
+msgstr "Settings"
+
+#: views/plugin-banner.php:8
+msgid "v%s"
+msgstr "v%s"
+
+#: OMAPI/Welcome.php:338
+msgid "Thank you for using <a href=\"%1$s\" target=\"_blank\">OptinMonster</a>!"
+msgstr "Thank you for using <a href=\"%1$s\" target=\"_blank\">OptinMonster</a>!"
+
+#: OMAPI/Menu.php:464
+msgid "Are you sure you want to reset these settings?"
+msgstr "Are you sure you want to reset these settings?"
+
+#: OMAPI/Widget.php:79
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: OMAPI/Content.php:554
+msgid "Edit the output settings for this campaign"
+msgstr "Edit the output settings for this campaign"
+
+#: OMAPI/Content.php:553
+msgid "Edit this campaign on the OptinMonster App"
+msgstr "Edit this campaign on the OptinMonster App"
+
+#: OMAPI/Content.php:534
+msgid "Go live with this campaign"
+msgstr "Go live with this campaign"
+
+#: OMAPI/Content.php:533
+msgid "Go Live"
+msgstr "Go Live"
+
+#: OMAPI/Content.php:533
+msgid "Disable"
+msgstr "Disable"
+
+#: OMAPI/Content.php:514
+msgid "No campaign could be retrieved for the ID specified."
+msgstr "No campaign could be retrieved for the ID specified."
+
+#: OMAPI/Content.php:387
+msgid "No campaigns could be retrieved for this site."
+msgstr "No campaigns could be retrieved for this site."
+
+#: OMAPI/Content.php:380
+msgid "Manage output settings for %s"
+msgstr "Manage output settings for %s"
+
+#: OMAPI/Content.php:367
+msgid "Disabled"
+msgstr "Disabled"
+
+#: OMAPI/Content.php:308
+msgid "You must authenticate your OptinMonster account before you can use OptinMonster on this site."
+msgstr "You must authenticate your OptinMonster account before you can use OptinMonster on this site."
+
+#: OMAPI/Content.php:245
+msgid "Clear Local Cookies"
+msgstr "Clear Local Cookies"
+
+#: OMAPI/Content.php:237 OMAPI/Content.php:277
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: OMAPI/Content.php:229
+msgid "Connect to OptinMonster"
+msgstr "Connect to OptinMonster"
+
+#: OMAPI/Content.php:192
+msgid "Back to Overview"
+msgstr "Back to Overview"
+
+#: OMAPI/Content.php:185
+msgid "Output Settings for %s"
+msgstr "Output Settings for %s"
+
+#: OMAPI/Actions.php:258
+msgid "There was an error clearing the local cookies. Please try again."
+msgstr "There was an error clearing the local cookies. Please try again."
+
+#: OMAPI/Actions.php:257
+msgid "The local cookies have been cleared successfully."
+msgstr "The local cookies have been cleared successfully."
+
+#: OMAPI/Actions.php:251
+msgid "There was an error updating the campaign status. Please try again."
+msgstr "There was an error updating the campaign status. Please try again."
+
+#: OMAPI/Actions.php:249
+msgid "The campaign status was updated successfully. You can configure more specific loading requirements by <a href=\"%s\" title=\"Click here to edit the output settings for the updated campaign.\">editing the output settings</a> for the campaign."
+msgstr "The campaign status was updated successfully. You can configure more specific loading requirements by <a href=\"%s\" title=\"Click here to edit the output settings for the updated campaign.\">editing the output settings</a> for the campaign."
